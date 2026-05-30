@@ -1,0 +1,15 @@
+output.svg
+.DS_Store
+*.pem
+*.tfstate
+*.tfstate.*
+*.rdp
+
+decrypt_password.txt
+encrypted_password.txt
+
+.terraform/
+.terraform.lock.hcl
+
+terraform.tfvars
+*.auto.tfvars
